@@ -1,0 +1,25 @@
+[
+    {
+        "data_agendamento":"2020-10-01",
+        "hora_agendamento": 800
+    },
+    {
+        "data_agendamento":"2020-10-01",
+        "hora_agendamento": 900
+    }
+    ,
+    {
+        "data_agendamento":"2020-10-01",
+        "hora_agendamento": 1000
+    }
+    ,
+    {
+        "data_agendamento":"2020-10-01",
+        "hora_agendamento": 1100
+    }
+    ,
+    {
+        "data_agendamento":"2020-10-01",
+        "hora_agendamento": 1400
+    }
+]
